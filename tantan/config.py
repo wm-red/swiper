@@ -1,0 +1,5 @@
+SD_APPID = '54822'
+SD_APPKEY = 'd7f817b3ac5321fde902d83a426e5709'
+SD_PROJECT='KeFuf1'
+SD_SIGN_TYPE= 'md5'
+SD_API = 'https://api.mysubmail.com/message/xsend.json'
